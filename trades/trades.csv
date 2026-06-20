@@ -1,0 +1,4 @@
+timestamp_iso,symbol,side,size,fill_price,order_id,status
+2026-06-20T22:59:08.198285+00:00,NVDA,BUY,9,pending,a7a285cc-ee67-4acc-a144-2914e35346dc,accepted
+2026-06-20T23:01:52.135165+00:00,NVDA,BUY,9,pending,65ce6a79-2112-4896-a584-f2c5a98b8432,accepted
+2026-06-20T23:11:17.068412+00:00,NVDA,BUY,9,pending,22250e63-3be7-4c76-9cce-1f63a1d305cf,accepted
